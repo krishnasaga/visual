@@ -10,6 +10,6 @@ chart
 >varant: map
 >options: width=100%,height: 200px,colorPalet=reds
 >
----
+
 
 
