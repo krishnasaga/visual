@@ -1,7 +1,7 @@
 # Artificial Objects in Earth's Orbit
 
 ---
-visulization
+chart
 >
 >dateset: datasetname
 > ```sql
